@@ -1,0 +1,1 @@
+AI as we know it has existed longer than most of us have originally believed. Created in 1966 by Joseph Weizenbaum, ELIZA is essentially the first AI chatbot program to be made, designed to process and ingage in conversations with Humans.

@@ -26,7 +26,8 @@ When that day comes, I’ll have a new question for her. “Siri, do you have a 
 
 
 # Refrences For Histrorical Development
-
+London Intercultural Academy
+https://liacademy.co.uk/the-story-of-eliza-the-ai-that-fooled-the-world/ 
 
 
 
