@@ -1,0 +1,1 @@
+Throughout this project, we have learned about historical developments of the first From the early Artificial Intelligence model; ELIZA to the current Artificial Intelligence model ChatGPT. Humans have witnessed the evolution of artificial intelligence. We have used alot of trustable sources 
