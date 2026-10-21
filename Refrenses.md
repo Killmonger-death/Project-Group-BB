@@ -11,7 +11,7 @@
 
 
 
-# Viewpoint 1 (Buisness)
+# Viewpoint 1 (Business)
 
 
 
