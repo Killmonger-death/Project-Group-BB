@@ -29,7 +29,7 @@ When that day comes, I’ll have a new question for her. “Siri, do you have a 
 London Intercultural Academy
 https://liacademy.co.uk/the-story-of-eliza-the-ai-that-fooled-the-world/ 
 
-
+"User: I am worried about my job. - ELIZA: What does your job mean to you?"
 
 
 
