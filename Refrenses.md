@@ -31,6 +31,7 @@ https://liacademy.co.uk/the-story-of-eliza-the-ai-that-fooled-the-world/
 
 "User: I am worried about my job. - ELIZA: What does your job mean to you?"
 
+"when behaviour appears convincing, how do we know what lies behind it?"
 
 
 # Viewpoint 1 (Business)
