@@ -11,3 +11,5 @@ They play constructive roles in government, business and consumer markets
 
 HOW THEY OPERATE
 They are automated software that makes decisions and executes operations based on predetermined criteria. They use artifical intellignece..... to tailor technology to personal needs.
+
+testing git commit 
