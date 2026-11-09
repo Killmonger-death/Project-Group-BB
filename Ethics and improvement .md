@@ -13,6 +13,7 @@ At its core, it states that AI must respect human rights and human dignity. It i
 
 This Recommendation doesn’t focus only on ethical values and principles but also lays out concrete policy recommendations to help implement them, across policy areas from gender to data to international cooperation. 
 
+ However, these changes also raise a profound ethical concerns. These arise from the way Ai systems are developed, designed, deployed and used, which may lead to reproducing and amplifying biases, threatening human rights and more.
 
 
 https://www.unesco.org/en/artificial-intelligence/recommendation-ethics 
