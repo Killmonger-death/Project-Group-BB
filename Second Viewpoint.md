@@ -15,3 +15,5 @@ In some instances, certain AI systems are thought to have enabled discriminatory
 Racial issues also come up with facial recognition software. Most such systems operate by comparing a person’s face to a range of faces in a large database. As pointed out by Joy Buolamwini of the Algorithmic Justice League, “If your facial recognition data contains mostly Caucasian faces, that’s what your program will learn to recognize.”42 Unless the databases have access to diverse data, these programs perform poorly when attempting to recognize African-American or Asian-American features.
 
 Ai can improve society by making information and services more accessible to people.however,over reliance on ai may reduce human interaction and create concerns about privicy and fairness.
+
+The rapid developments of artificial intelligence (AI) have created many opportunities globally, such as facilitating healthcare diagnoses and treatment, opening access to more tailored learning, and creating new means to safeguard and protect cultural diversity, among many others.
