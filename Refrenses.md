@@ -33,6 +33,9 @@ https://liacademy.co.uk/the-story-of-eliza-the-ai-that-fooled-the-world/
 
 "when behaviour appears convincing, how do we know what lies behind it?"
 
+https://www.sri.com/75-years-of-innovation/75-years-of-innovation-siri/
+
+"cognative software assistant"
 
 # Viewpoint 1 (Business)
 
