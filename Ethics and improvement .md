@@ -18,21 +18,18 @@ Fluency does not equate to factual accuracy. Responses from four different AI sy
 
 
 Reference
+
 Uswitch (2020) New data reveals the UK and Irish accents that Alexa doesn’t understand.
-Available at: https://www.uswitch.com/media-centre/2020/07/new-data-reveals-uk-
-accents-alexa-doesnt-understand 
+Available at: https://www.uswitch.com/media-centre/2020/07/new-data-reveals-uk-accents-alexa-doesnt-understand 
 
 Centre for Data Ethics and Innovation (2020) Review into bias in algorithmic decision-making.
-London: CDEI. Available at: https://www.gov.uk/government/publications/cdei-
-publishes-review-into-bias-in-algorithmic-decision-making 
+London: CDEI. Available at: https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making 
 
 Information Commissioner’s Office (2020) Guidance on AI and data protection. Wilmslow:
-ICO. Available at: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-
-resources/artificial-intelligence/guidance-on-ai-and-data-protection/ 
+ICO. Available at: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/ 
 
 Information Commissioner’s Office (2023) UK Information Commissioner issues preliminary
-enforcement notice against Snap, 6 October. Available at: https://ico.org.uk/about-the-
-ico/media-centre/news-and-blogs/2023/10/uk-information-commissioner-issues-
+enforcement notice against Snap, 6 October Available at: https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2023/10/uk-information-commissioner-issues-
 preliminary-enforcement-notice-against-snap 
 
 BBC (2025) New EBU research: AI assistants news content. BBC Media Centre. Available at:
@@ -40,8 +37,7 @@ https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-conte
 
 House of Lords Communications and Digital Committee (2024) Large language models and
 generative AI. 1st Report of Session 2023–24. London: House of Lords. Available at:
-https://lordslibrary.parliament.uk/large-language-models-and-generative-ai-house-of-
-lords-communications-and-digital-committee-report/
+https://lordslibrary.parliament.uk/large-language-models-and-generative-ai-house-of-lords-communications-and-digital-committee-report/
 
 Ayinde v London Borough of Haringey and Al-Haroun v Qatar National Bank QPSC [2025]
 EWHC 1383 (Admin). Available at:
