@@ -10,8 +10,17 @@ Introducing Artifical Intelligence Technologies into administration and operativ
 HOW THEY OPERATE
 They are automated software that makes decisions and executes operations based on predetermined criteria. They use artifical intellignece..... to tailor technology to personal needs.
 
+THE ADVANTAGES 
+You could ask questions in a simple way and receive an instant insights
+You could simplify complex data into easily digesible answers
+And you can use AI to generate to create multiple scenarios 
+It increases efficiency
+And major cost reduction 
+
 Global Institute, McKinsey (2025) *Agents, robots, and us: Skill partnerships in the age of AI*. https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partnerships-in-the-age-of-ai [Accessed on 27 October 2026]
 
 West, D.M (2025) *Should consumers and businesses use AI assistants?* https://www.brookings.edu/articles/should-consumers-and-businesses-use-ai-assistants/[Accessed on 27 October 2026]
 
 Khodorkovskyi, O (2024) *The Impact of AI Assistants on Optimising Business Processes and Increasing Productivity of Enterprises in Ukraine* https://zenodo.org/records/14598994 [Accessed on 08 November 2026]
+
+Finio, M & Downie, A (2025) *Take advantage of AI and use it to make your business better* https://www.ibm.com/think/insights/ai-for-business-benefits [Accessed on 15 November 2026]
