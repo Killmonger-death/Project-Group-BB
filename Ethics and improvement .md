@@ -29,8 +29,7 @@ Information Commissioner’s Office (2020) Guidance on AI and data protection. W
 ICO. Available at: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/ 
 
 Information Commissioner’s Office (2023) UK Information Commissioner issues preliminary
-enforcement notice against Snap, 6 October Available at: https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2023/10/uk-information-commissioner-issues-
-preliminary-enforcement-notice-against-snap 
+enforcement notice against Snap, 6 October Available at: https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2023/10/uk-information-commissioner-issues-preliminary-enforcement-notice-against-snap 
 
 BBC (2025) New EBU research: AI assistants news content. BBC Media Centre. Available at:
 https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content
