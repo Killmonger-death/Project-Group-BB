@@ -14,6 +14,11 @@ Misinformation
 
 Fluency does not equate to factual accuracy. Responses from four different AI systems, across 14 languages and over 3000 responses were examined by journalists from 22 public service broadcasters. 45% of these responses contained at least one important error (BBC, 2025). While this does highlight a problem for the broadcasters the scope and language coverage makes this a small sample unlikely. The House of Lords Committee (2024) has proposed the issue. AI systems are trained on plausibility and probability rather than fact. The consequence of this is reflected in the law. In Al-Haroun 18 of 45 referenced cases do not exist (Ayinde v Haringey [2025] EWHC 1383 (Admin)) and the Divisional Court has also highlighted the issue that publicly available systems are unsuitable for carrying out reliable legal research.
 
+Hidden labour
+
+Labor is involved in both the training and interaction data. A whistleblower for the Guardian revealed that contractors for Siri would often hear criminal and medical information (Hern, 2019). Apple responded that less than 1% of interactions were inspected and that none of these were linked to Apple IDs. There is a Fairwork rating for AI in procurement (Fairwork, 2025). The examples given above highlight practice rather than prevalence.
+
+
 
 
 
@@ -41,6 +46,16 @@ https://lordslibrary.parliament.uk/large-language-models-and-generative-ai-house
 Ayinde v London Borough of Haringey and Al-Haroun v Qatar National Bank QPSC [2025]
 EWHC 1383 (Admin). Available at:
 https://caselaw.nationalarchives.gov.uk/ewhc/admin/2025/1383
+
+Hern, A. (2019) ‘Apple contractors “regularly hear confidential details” on Siri recordings’, The
+Guardian, 26 July. Available at:
+https://www.theguardian.com/technology/2019/jul/26/apple-contractors-regularly-hear-confidential-details-on-siri-recordings 
+
+Fairwork (2025) Fairwork AI ratings 2024/5: who powers AI? Oxford: Oxford Internet Institute,
+University of Oxford. Available at:
+https://fairwork.oii.ox.ac.uk/en/fw/publications/fairwork-ai-ratings-2024-5-who-powers-ai-assessing-fairness-in-the-ai-supply-chain-humans-in-the-loop-as-a-case-study/
+
+
 
 
 
