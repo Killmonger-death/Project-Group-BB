@@ -18,6 +18,11 @@ Hidden labour
 
 Labor is involved in both the training and interaction data. A whistleblower for the Guardian revealed that contractors for Siri would often hear criminal and medical information (Hern, 2019). Apple responded that less than 1% of interactions were inspected and that none of these were linked to Apple IDs. There is a Fairwork rating for AI in procurement (Fairwork, 2025). The examples given above highlight practice rather than prevalence.
 
+Realistic improvements
+
+There are three improvements that can be considered and ordered by likely implementation. Standards are first as highlighted by the House of Lords Committee (2024) who have recommended common auditing and use of accredited standards. The issue with guidance alone was highlighted in the case of Ayinde. A second improvement is legal clarity regarding measurement of bias. This is inexpensive and unlocks the data required for effective auditing. The final improvement is procurement ratings similar to Fairwork. This is the least effective option as it is voluntary. The Department for Science, Innovation and Technology (2023) opted not to introduce new legislation. However Snap highlights that the ICO only acted following deployment. What role does regulation play in this? The Department for Science, Innovation and Technology (2023) opted not to introduce new legislation. The ICO only acted following deployment and this was only provisionally. Standards would allow for pre-deployment auditing by regulators. Without standards fairness would remain aspirational.
+
+
 
 
 
@@ -54,6 +59,12 @@ https://www.theguardian.com/technology/2019/jul/26/apple-contractors-regularly-h
 Fairwork (2025) Fairwork AI ratings 2024/5: who powers AI? Oxford: Oxford Internet Institute,
 University of Oxford. Available at:
 https://fairwork.oii.ox.ac.uk/en/fw/publications/fairwork-ai-ratings-2024-5-who-powers-ai-assessing-fairness-in-the-ai-supply-chain-humans-in-the-loop-as-a-case-study/
+
+Ada Lovelace Institute (2023) Foundation models in the public sector. London: Ada Lovelace Institute. Available at: https://www.adalovelaceinstitute.org/policy-briefing/foundation-models-public-sector/ 
+
+Department for Science, Innovation and Technology (2023) A pro-innovation approach to AI regulation. London: DSIT. Available at: https://share.google/NbhDpJZC6t8DdFXJe
+
+
 
 
 
