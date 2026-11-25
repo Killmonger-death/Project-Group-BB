@@ -28,3 +28,5 @@ Khodorkovskyi, O (2024) *The Impact of AI Assistants on Optimising Business Proc
 Finio, M & Downie, A (2025) *Take advantage of AI and use it to make your business better* https://www.ibm.com/think/insights/ai-for-business-benefits [Accessed on 15 November 2026]
 Downie, A & Hayes, M. (2024) *AI in the workplace: Digital Labour and the future of work* https://www.ibm.com/think/topics/ai-in-the-workplace [Accessed on 25 November 2026]
 Runyon, N (2026) *The human side of AI: The growing risks of ubiquitous use of AI on talent* https://www.thomsonreuters.com/en/insights/articles/the-human-side-of-ai-the-growing-risks-of-ubiquitous-use-of-ai-on-talent [Accessed on 25 November 2026]
+
+one
