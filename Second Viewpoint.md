@@ -1,4 +1,4 @@
-                         Second Viewpoint
+                                        Second Viewpoint
 
 Artificial Intelligence (AI) is now becoming a normal part of everyday life. Many people use it through their phones, websites, online shopping and other services and sometimes without even realising that they are using AI. According to the European Commission, AI can make everyday tasks easier by helping people in finding information, learning a new skill and solve difficult problems. In the past, AI was mostly seen as something related to science and technology. However, things have changed now, and it is used in many areas of daily life including the way people work, study and communicate with others. 
 
