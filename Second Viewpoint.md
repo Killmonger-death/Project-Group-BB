@@ -4,7 +4,7 @@ Artificial Intelligence (AI) is now becoming a normal part of everyday life. Man
 
 AI can be helpful to society in many different ways. For example, online shopping websites can recommend products based on what people have searched for or viewed. Digital assistants such as AI bots or customer service bots can help people by answering their questions or directing them. According to the Council of the European Union, AI can make work easier for businesses by handling their repetitive tasks and processing large amounts of information. This allows employees to spend more time on the important parts of their jobs and get their work done early. AI is also being used in healthcare to support doctors and medical staffs. However, its results still need to be reviewed by professional to ensure if correct and accurate results produced, especially when it a matter of people's health and safety. 
 
-AI is also becoming more common in education. According to UNESCO, generative AI can be useful for both teachers and students when it is used in a right way. For example, students can use AI tools to understand difficult topics, practice new skills or even get ideas for their projects. Teachers can use AI to prepare lessons, learning materials or mark tests. However, there are some disadvantages to consider. If students rely too much on AI, they may not develop their critical thinking and problem solving skills which could affect their IQ level. Another issue is that not everyone has equal access to computers and internet. This could create a bigger gap between students, as some may have more opportunities to use AI than others. 
+AI is also becoming more common in education. According to UNESCO, generative AI can be useful for both teachers and students when it is used in a right way. For example, students can use AI tools to understand difficult topics, practice new skills or even get ideas for their projects. Teachers can use AI to prepare lessons, learning materials or mark tests. However, there are some disadvantages to consider. If students rely too much on AI, they may not develop their critical thinking and problem solving skills which could affect their IQ level. Another issue is that not everyone has equal access to computers and internet. This could create a bigger gap between students, as some may have more opportunities to use AI than others.
 
 AI is also having an impact on the way people work. According to the OECD, AI is changing some of the tasks people do at work and the skills they need. For example, some businesses use AI to answer customer queries, organise information etc. This can help save their time and make work easier. However, it may also affect certain jobs. This means some employees will need to learn new skills or receive training to work with these technologies. The OECD also points out that skills such as communication, creativity, problem solving and digital knowledge are becoming more important. Even with the growth of AI businesses still need people who can think for themselves, make the decision and understand the situation. 
 
@@ -12,3 +12,20 @@ However, there are also some problems with AI that people need to be aware of. A
 
 Overall, Ai brings many benefits to society but there are also challenges that need to be considered. It can make everyday tasks easier, help students with learning and support businesses in different ways possible. However, issues such as privacy, fairness and changes to jobs should not be overlooked. AI is most useful when it helps people rather than making decisions for them. Schools, businesses and governments should also help people understand how to use AI properly and safely. If it is developed and used responsibly, AI can have a positive impact on society while people remain unaware of its limitations. 
  
+ References: 
+
+European Commission 
+
+https://commission.europa.eu/digital-life/making-artificial-intelligence-work-people_en
+
+Council of the European Union 
+
+https://www.consilium.europa.eu/en/policies/benefits-and-risks-of-ai
+
+UNESCO 
+
+https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research?hub=66973&trk=article
+
+OCED (2026) 
+
+https://www.oecd.org/en/publications/skills-in-the-ai-age_972bd15e-en.html
